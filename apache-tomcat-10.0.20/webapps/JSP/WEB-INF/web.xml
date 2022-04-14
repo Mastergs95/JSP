@@ -1,7 +1,17 @@
-<!DOCTYPE web-app PUBLIC
- "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
- "http://java.sun.com/dtd/web-app_2_3.dtd" >
+<?xml version="1.0" encoding="UTF-8"?>
+
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+
+  <error-page>
+    <exception-type>java.lang.Exception</exception-type>
+    <location>/jsp/error.jsp</location>
+  </error-page>
+
+  <error-page>
+    <error-code>404</error-code>
+    <location>/jsp/error404.jsp</location>
+  </error-page>
+
 </web-app>

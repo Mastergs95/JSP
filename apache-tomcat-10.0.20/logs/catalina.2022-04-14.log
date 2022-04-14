@@ -1,0 +1,706 @@
+14-Apr-2022 10:34:56.469 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.20
+14-Apr-2022 10:34:56.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 14:24:36 UTC
+14-Apr-2022 10:34:56.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.20.0
+14-Apr-2022 10:34:56.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+14-Apr-2022 10:34:56.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Apr-2022 10:34:56.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Apr-2022 10:34:56.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18
+14-Apr-2022 10:34:56.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18+36-2087
+14-Apr-2022 10:34:56.473 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Apr-2022 10:34:56.473 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 10:34:56.473 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 10:34:56.544 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Apr-2022 10:34:56.544 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Apr-2022 10:34:56.544 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Apr-2022 10:34:56.544 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Apr-2022 10:34:56.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Apr-2022 10:34:56.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\conf\logging.properties
+14-Apr-2022 10:34:56.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Apr-2022 10:34:56.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Apr-2022 10:34:56.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Apr-2022 10:34:56.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+14-Apr-2022 10:34:56.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 10:34:56.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 10:34:56.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\temp
+14-Apr-2022 10:34:56.553 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-18\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;%JAVA_HOME\bin;C:\Program Files\Git\cmd;C:\Users\goncalo.diogo\Documents\apache-maven-3.8.5\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\goncalo.diogo\AppData\Local\Microsoft\WindowsApps;;C:\Users\goncalo.diogo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;;.]
+14-Apr-2022 10:34:56.803 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 10:34:56.821 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [512] milliseconds
+14-Apr-2022 10:34:56.860 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Apr-2022 10:34:56.860 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.20]
+14-Apr-2022 10:34:56.877 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 10:34:56.896 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP] was found with a last modified time that did not match the associated WAR. It will be deleted.
+14-Apr-2022 10:34:57.249 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [372] ms
+14-Apr-2022 10:34:57.251 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs]
+14-Apr-2022 10:34:57.288 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs] has finished in [37] ms
+14-Apr-2022 10:34:57.288 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples]
+14-Apr-2022 10:34:57.874 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples] has finished in [585] ms
+14-Apr-2022 10:34:57.874 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager]
+14-Apr-2022 10:34:57.934 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager] has finished in [60] ms
+14-Apr-2022 10:34:57.935 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager]
+14-Apr-2022 10:34:58.012 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager] has finished in [78] ms
+14-Apr-2022 10:34:58.013 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT]
+14-Apr-2022 10:34:58.057 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT] has finished in [43] ms
+14-Apr-2022 10:34:58.061 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 10:34:58.113 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1290] milliseconds
+14-Apr-2022 10:38:38.843 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 10:38:48.920 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 10:38:49.056 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [136] ms
+14-Apr-2022 10:48:00.333 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 10:48:10.386 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 10:48:10.492 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [106] ms
+14-Apr-2022 10:49:30.602 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 10:49:30.643 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 10:49:30.739 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [96] ms
+14-Apr-2022 10:51:11.388 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 10:51:41.465 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 10:51:41.601 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [136] ms
+14-Apr-2022 10:54:02.316 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 10:54:12.377 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 10:54:12.478 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [101] ms
+14-Apr-2022 11:00:23.468 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 11:00:23.520 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:00:23.618 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [99] ms
+14-Apr-2022 11:08:50.596 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.20
+14-Apr-2022 11:08:50.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 14:24:36 UTC
+14-Apr-2022 11:08:50.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.20.0
+14-Apr-2022 11:08:50.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+14-Apr-2022 11:08:50.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Apr-2022 11:08:50.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Apr-2022 11:08:50.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18
+14-Apr-2022 11:08:50.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18+36-2087
+14-Apr-2022 11:08:50.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Apr-2022 11:08:50.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 11:08:50.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 11:08:50.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Apr-2022 11:08:50.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Apr-2022 11:08:50.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Apr-2022 11:08:50.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Apr-2022 11:08:50.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Apr-2022 11:08:50.615 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\conf\logging.properties
+14-Apr-2022 11:08:50.615 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Apr-2022 11:08:50.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Apr-2022 11:08:50.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Apr-2022 11:08:50.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+14-Apr-2022 11:08:50.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 11:08:50.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 11:08:50.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\temp
+14-Apr-2022 11:08:50.624 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-18\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;%JAVA_HOME\bin;C:\Program Files\Git\cmd;C:\Users\goncalo.diogo\Documents\apache-maven-3.8.5\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\goncalo.diogo\AppData\Local\Microsoft\WindowsApps;;C:\Users\goncalo.diogo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;;.]
+14-Apr-2022 11:08:50.868 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 11:08:50.887 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [433] milliseconds
+14-Apr-2022 11:08:50.924 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Apr-2022 11:08:50.924 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.20]
+14-Apr-2022 11:08:50.943 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:08:50.961 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP] was found with a last modified time that did not match the associated WAR. It will be deleted.
+14-Apr-2022 11:08:51.301 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [358] ms
+14-Apr-2022 11:08:51.302 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs]
+14-Apr-2022 11:08:51.343 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs] has finished in [41] ms
+14-Apr-2022 11:08:51.344 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples]
+14-Apr-2022 11:08:51.958 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples] has finished in [614] ms
+14-Apr-2022 11:08:51.959 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager]
+14-Apr-2022 11:08:52.032 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager] has finished in [73] ms
+14-Apr-2022 11:08:52.032 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager]
+14-Apr-2022 11:08:52.098 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager] has finished in [66] ms
+14-Apr-2022 11:08:52.099 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT]
+14-Apr-2022 11:08:52.138 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT] has finished in [39] ms
+14-Apr-2022 11:08:52.141 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 11:08:52.181 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1293] milliseconds
+14-Apr-2022 11:10:12.767 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 11:10:22.829 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:10:22.930 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [101] ms
+14-Apr-2022 11:11:23.539 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 11:11:33.603 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:11:33.701 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [97] ms
+14-Apr-2022 11:12:23.771 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 11:12:23.829 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:12:23.967 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [138] ms
+14-Apr-2022 11:13:14.040 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 11:13:14.104 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:13:14.218 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [114] ms
+14-Apr-2022 11:21:34.910 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 11:21:34.959 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:21:35.068 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [109] ms
+14-Apr-2022 11:23:37.284 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 11:23:37.296 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Apr-2022 11:23:37.308 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 11:23:37.326 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 11:47:26.370 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.20
+14-Apr-2022 11:47:26.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 14:24:36 UTC
+14-Apr-2022 11:47:26.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.20.0
+14-Apr-2022 11:47:26.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+14-Apr-2022 11:47:26.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Apr-2022 11:47:26.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Apr-2022 11:47:26.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18
+14-Apr-2022 11:47:26.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18+36-2087
+14-Apr-2022 11:47:26.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Apr-2022 11:47:26.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 11:47:26.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 11:47:26.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Apr-2022 11:47:26.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Apr-2022 11:47:26.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Apr-2022 11:47:26.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Apr-2022 11:47:26.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Apr-2022 11:47:26.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\conf\logging.properties
+14-Apr-2022 11:47:26.386 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Apr-2022 11:47:26.386 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Apr-2022 11:47:26.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Apr-2022 11:47:26.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+14-Apr-2022 11:47:26.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 11:47:26.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 11:47:26.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\temp
+14-Apr-2022 11:47:26.393 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-18\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;%JAVA_HOME\bin;C:\Program Files\Git\cmd;C:\Users\goncalo.diogo\Documents\apache-maven-3.8.5\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\goncalo.diogo\AppData\Local\Microsoft\WindowsApps;;C:\Users\goncalo.diogo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;;.]
+14-Apr-2022 11:47:26.622 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 11:47:26.639 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [410] milliseconds
+14-Apr-2022 11:47:26.684 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Apr-2022 11:47:26.684 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.20]
+14-Apr-2022 11:47:26.704 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:47:26.726 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP] was found with a last modified time that did not match the associated WAR. It will be deleted.
+14-Apr-2022 11:47:27.156 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [451] ms
+14-Apr-2022 11:47:27.157 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs]
+14-Apr-2022 11:47:27.199 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs] has finished in [42] ms
+14-Apr-2022 11:47:27.199 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples]
+14-Apr-2022 11:47:27.789 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples] has finished in [589] ms
+14-Apr-2022 11:47:27.789 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager]
+14-Apr-2022 11:47:27.849 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager] has finished in [60] ms
+14-Apr-2022 11:47:27.850 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager]
+14-Apr-2022 11:47:27.916 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager] has finished in [66] ms
+14-Apr-2022 11:47:27.917 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT]
+14-Apr-2022 11:47:27.962 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT] has finished in [44] ms
+14-Apr-2022 11:47:27.966 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 11:47:28.007 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1366] milliseconds
+14-Apr-2022 11:51:58.354 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 11:51:58.410 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:51:58.520 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [110] ms
+14-Apr-2022 11:52:39.086 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 11:52:49.151 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:52:49.258 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [107] ms
+14-Apr-2022 11:53:39.833 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 11:53:49.896 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 11:53:50.047 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [151] ms
+14-Apr-2022 12:07:21.755 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:07:31.848 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:07:31.985 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [137] ms
+14-Apr-2022 12:27:48.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.20
+14-Apr-2022 12:27:48.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 14:24:36 UTC
+14-Apr-2022 12:27:48.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.20.0
+14-Apr-2022 12:27:48.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+14-Apr-2022 12:27:48.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Apr-2022 12:27:48.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Apr-2022 12:27:48.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18
+14-Apr-2022 12:27:48.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18+36-2087
+14-Apr-2022 12:27:48.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Apr-2022 12:27:48.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:27:48.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:27:48.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Apr-2022 12:27:48.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Apr-2022 12:27:48.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Apr-2022 12:27:48.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Apr-2022 12:27:48.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Apr-2022 12:27:48.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\conf\logging.properties
+14-Apr-2022 12:27:48.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Apr-2022 12:27:48.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Apr-2022 12:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Apr-2022 12:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+14-Apr-2022 12:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:27:48.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:27:48.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\temp
+14-Apr-2022 12:27:48.624 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-18\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;%JAVA_HOME\bin;C:\Program Files\Git\cmd;C:\Users\goncalo.diogo\Documents\apache-maven-3.8.5\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\goncalo.diogo\AppData\Local\Microsoft\WindowsApps;;C:\Users\goncalo.diogo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;;.]
+14-Apr-2022 12:27:48.862 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 12:27:48.878 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [419] milliseconds
+14-Apr-2022 12:27:48.914 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Apr-2022 12:27:48.914 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.20]
+14-Apr-2022 12:27:48.925 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs]
+14-Apr-2022 12:27:49.191 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs] has finished in [266] ms
+14-Apr-2022 12:27:49.192 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples]
+14-Apr-2022 12:27:49.835 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples] has finished in [644] ms
+14-Apr-2022 12:27:49.836 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager]
+14-Apr-2022 12:27:49.897 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager] has finished in [61] ms
+14-Apr-2022 12:27:49.898 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP]
+14-Apr-2022 12:27:49.974 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP] has finished in [76] ms
+14-Apr-2022 12:27:49.975 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager]
+14-Apr-2022 12:27:50.059 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager] has finished in [85] ms
+14-Apr-2022 12:27:50.060 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT]
+14-Apr-2022 12:27:50.095 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT] has finished in [35] ms
+14-Apr-2022 12:27:50.098 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 12:27:50.140 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1261] milliseconds
+14-Apr-2022 12:28:00.104 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:28:00.159 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:28:00.269 SEVERE [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Error deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:729)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:747)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1027)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:2001)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:828)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:478)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1757)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:316)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1162)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1365)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1369)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1347)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JSP]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+		... 24 more
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [bookconfirmservlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3257)
+		at org.apache.catalina.Context.addServletMappingDecoded(Context.java:905)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1562)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1329)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:986)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:303)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5084)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 25 more
+14-Apr-2022 12:28:00.271 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [112] ms
+14-Apr-2022 12:29:00.862 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:29:20.947 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:29:21.067 SEVERE [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Error deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:729)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:747)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1027)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:2001)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:828)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:478)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1757)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:316)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1162)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1365)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1369)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1347)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JSP]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+		... 24 more
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [bookconfirmservlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3257)
+		at org.apache.catalina.Context.addServletMappingDecoded(Context.java:905)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1562)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1329)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:986)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:303)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5084)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 25 more
+14-Apr-2022 12:29:21.070 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [122] ms
+14-Apr-2022 12:30:41.690 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:30:51.742 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:30:51.853 SEVERE [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Error deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:729)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:747)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1027)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:2001)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:828)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:478)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1757)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:316)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1162)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1365)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1369)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1347)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JSP]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+		... 24 more
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [bookconfirmservlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3257)
+		at org.apache.catalina.Context.addServletMappingDecoded(Context.java:905)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1562)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1329)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:986)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:303)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5084)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 25 more
+14-Apr-2022 12:30:51.855 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [113] ms
+14-Apr-2022 12:31:46.018 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 12:31:46.031 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Apr-2022 12:31:46.047 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 12:31:46.058 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 12:34:32.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.20
+14-Apr-2022 12:34:32.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 14:24:36 UTC
+14-Apr-2022 12:34:32.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.20.0
+14-Apr-2022 12:34:32.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+14-Apr-2022 12:34:32.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Apr-2022 12:34:32.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Apr-2022 12:34:32.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18
+14-Apr-2022 12:34:32.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18+36-2087
+14-Apr-2022 12:34:32.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Apr-2022 12:34:32.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:34:32.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:34:32.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Apr-2022 12:34:32.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Apr-2022 12:34:32.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Apr-2022 12:34:32.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Apr-2022 12:34:32.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Apr-2022 12:34:32.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\conf\logging.properties
+14-Apr-2022 12:34:32.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Apr-2022 12:34:32.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Apr-2022 12:34:32.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Apr-2022 12:34:32.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+14-Apr-2022 12:34:32.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:34:32.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:34:32.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\temp
+14-Apr-2022 12:34:32.384 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-18\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;%JAVA_HOME\bin;C:\Program Files\Git\cmd;C:\Users\goncalo.diogo\Documents\apache-maven-3.8.5\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\goncalo.diogo\AppData\Local\Microsoft\WindowsApps;;C:\Users\goncalo.diogo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;;.]
+14-Apr-2022 12:34:32.649 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 12:34:32.670 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [473] milliseconds
+14-Apr-2022 12:34:32.712 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Apr-2022 12:34:32.712 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.20]
+14-Apr-2022 12:34:32.733 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:34:32.933 SEVERE [main] org.apache.catalina.startup.HostConfig.deployWAR Error deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:729)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:747)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1027)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:2001)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:828)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:478)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1708)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:320)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:946)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:886)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1396)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1386)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:919)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:432)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:927)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:795)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JSP]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [bookconfirmservlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3257)
+		at org.apache.catalina.Context.addServletMappingDecoded(Context.java:905)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1562)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1329)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:986)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:303)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5084)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 36 more
+14-Apr-2022 12:34:32.937 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [203] ms
+14-Apr-2022 12:34:32.939 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs]
+14-Apr-2022 12:34:33.101 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs] has finished in [162] ms
+14-Apr-2022 12:34:33.102 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples]
+14-Apr-2022 12:34:33.707 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples] has finished in [605] ms
+14-Apr-2022 12:34:33.708 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager]
+14-Apr-2022 12:34:33.767 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager] has finished in [60] ms
+14-Apr-2022 12:34:33.768 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager]
+14-Apr-2022 12:34:33.833 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager] has finished in [65] ms
+14-Apr-2022 12:34:33.833 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT]
+14-Apr-2022 12:34:33.876 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT] has finished in [43] ms
+14-Apr-2022 12:34:33.880 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 12:34:33.922 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1250] milliseconds
+14-Apr-2022 12:37:34.614 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:37:46.923 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.20
+14-Apr-2022 12:37:46.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 14:24:36 UTC
+14-Apr-2022 12:37:46.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.20.0
+14-Apr-2022 12:37:46.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+14-Apr-2022 12:37:46.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Apr-2022 12:37:46.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Apr-2022 12:37:46.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18
+14-Apr-2022 12:37:46.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18+36-2087
+14-Apr-2022 12:37:46.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Apr-2022 12:37:46.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:37:46.927 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:37:46.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Apr-2022 12:37:46.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Apr-2022 12:37:46.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Apr-2022 12:37:46.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Apr-2022 12:37:46.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Apr-2022 12:37:46.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\conf\logging.properties
+14-Apr-2022 12:37:46.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Apr-2022 12:37:46.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Apr-2022 12:37:46.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Apr-2022 12:37:46.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+14-Apr-2022 12:37:46.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:37:46.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 12:37:46.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\temp
+14-Apr-2022 12:37:46.946 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-18\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;%JAVA_HOME\bin;C:\Program Files\Git\cmd;C:\Users\goncalo.diogo\Documents\apache-maven-3.8.5\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\goncalo.diogo\AppData\Local\Microsoft\WindowsApps;;C:\Users\goncalo.diogo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;;.]
+14-Apr-2022 12:37:47.162 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 12:37:47.181 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [394] milliseconds
+14-Apr-2022 12:37:47.211 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Apr-2022 12:37:47.211 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.20]
+14-Apr-2022 12:37:47.229 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:37:47.248 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP] was found with a last modified time that did not match the associated WAR. It will be deleted.
+14-Apr-2022 12:37:47.489 SEVERE [main] org.apache.catalina.startup.HostConfig.deployWAR Error deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:729)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:747)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1027)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:2001)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:828)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:478)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1708)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:320)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:946)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:886)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1396)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1386)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:919)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:432)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:927)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:795)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/JSP]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [bookconfirmservlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3257)
+		at org.apache.catalina.Context.addServletMappingDecoded(Context.java:905)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1562)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1329)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:986)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:303)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5084)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 36 more
+14-Apr-2022 12:37:47.492 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [263] ms
+14-Apr-2022 12:37:47.494 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs]
+14-Apr-2022 12:37:47.645 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs] has finished in [149] ms
+14-Apr-2022 12:37:47.645 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples]
+14-Apr-2022 12:37:48.200 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples] has finished in [555] ms
+14-Apr-2022 12:37:48.201 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager]
+14-Apr-2022 12:37:48.270 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager] has finished in [69] ms
+14-Apr-2022 12:37:48.271 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager]
+14-Apr-2022 12:37:48.350 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager] has finished in [79] ms
+14-Apr-2022 12:37:48.351 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT]
+14-Apr-2022 12:37:48.399 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT] has finished in [47] ms
+14-Apr-2022 12:37:48.405 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 12:37:48.455 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1273] milliseconds
+14-Apr-2022 12:39:29.018 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:39:39.095 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:39:39.230 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [135] ms
+14-Apr-2022 12:41:09.868 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:41:19.941 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:41:20.077 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [135] ms
+14-Apr-2022 12:46:00.948 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:46:11.034 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:46:11.167 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [133] ms
+14-Apr-2022 12:48:31.343 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:48:31.395 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:48:31.522 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [127] ms
+14-Apr-2022 12:51:21.808 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:51:21.867 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:51:21.999 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [132] ms
+14-Apr-2022 12:52:32.105 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:52:32.165 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:52:32.322 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [157] ms
+14-Apr-2022 12:55:23.040 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 12:55:33.109 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 12:55:33.237 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [128] ms
+14-Apr-2022 13:00:44.194 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:00:54.250 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:00:54.379 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [129] ms
+14-Apr-2022 13:01:44.957 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:01:55.046 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:01:55.215 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [168] ms
+14-Apr-2022 13:04:15.438 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:04:15.517 SEVERE [Catalina-utility-1] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP\WEB-INF\classes\com\skillsoft] could not be completely deleted. The presence of the remaining files may cause problems
+14-Apr-2022 13:04:15.519 SEVERE [Catalina-utility-1] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP\WEB-INF\classes\com] could not be completely deleted. The presence of the remaining files may cause problems
+14-Apr-2022 13:04:15.522 SEVERE [Catalina-utility-1] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP\WEB-INF\classes] could not be completely deleted. The presence of the remaining files may cause problems
+14-Apr-2022 13:04:15.527 SEVERE [Catalina-utility-1] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP\WEB-INF] could not be completely deleted. The presence of the remaining files may cause problems
+14-Apr-2022 13:04:15.530 SEVERE [Catalina-utility-1] org.apache.catalina.startup.ExpandWar.deleteDir [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP] could not be completely deleted. The presence of the remaining files may cause problems
+14-Apr-2022 13:04:15.530 SEVERE [Catalina-utility-1] org.apache.catalina.startup.ExpandWar.delete [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP] could not be completely deleted. The presence of the remaining files may cause problems
+14-Apr-2022 13:04:15.538 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:04:15.629 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [92] ms
+14-Apr-2022 13:06:46.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.20
+14-Apr-2022 13:06:46.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 31 2022 14:24:36 UTC
+14-Apr-2022 13:06:46.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.20.0
+14-Apr-2022 13:06:46.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+14-Apr-2022 13:06:46.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+14-Apr-2022 13:06:46.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+14-Apr-2022 13:06:46.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18
+14-Apr-2022 13:06:46.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18+36-2087
+14-Apr-2022 13:06:46.715 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+14-Apr-2022 13:06:46.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 13:06:46.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 13:06:46.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Apr-2022 13:06:46.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Apr-2022 13:06:46.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Apr-2022 13:06:46.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Apr-2022 13:06:46.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Apr-2022 13:06:46.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\conf\logging.properties
+14-Apr-2022 13:06:46.728 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Apr-2022 13:06:46.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Apr-2022 13:06:46.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Apr-2022 13:06:46.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+14-Apr-2022 13:06:46.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 13:06:46.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20
+14-Apr-2022 13:06:46.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\temp
+14-Apr-2022 13:06:46.736 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-18\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;%JAVA_HOME\bin;C:\Program Files\Git\cmd;C:\Users\goncalo.diogo\Documents\apache-maven-3.8.5\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\goncalo.diogo\AppData\Local\Microsoft\WindowsApps;;C:\Users\goncalo.diogo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;;.]
+14-Apr-2022 13:06:46.974 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 13:06:46.992 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [421] milliseconds
+14-Apr-2022 13:06:47.025 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Apr-2022 13:06:47.025 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.20]
+14-Apr-2022 13:06:47.035 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs]
+14-Apr-2022 13:06:47.300 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs] has finished in [264] ms
+14-Apr-2022 13:06:47.301 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples]
+14-Apr-2022 13:06:47.883 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples] has finished in [583] ms
+14-Apr-2022 13:06:47.884 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager]
+14-Apr-2022 13:06:47.940 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager] has finished in [55] ms
+14-Apr-2022 13:06:47.940 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP]
+14-Apr-2022 13:06:47.999 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP] has finished in [59] ms
+14-Apr-2022 13:06:48.000 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager]
+14-Apr-2022 13:06:48.068 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager] has finished in [67] ms
+14-Apr-2022 13:06:48.068 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT]
+14-Apr-2022 13:06:48.108 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT] has finished in [40] ms
+14-Apr-2022 13:06:48.114 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Apr-2022 13:06:48.159 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1166] milliseconds
+14-Apr-2022 13:07:08.137 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:07:08.165 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:07:08.302 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [137] ms
+14-Apr-2022 13:10:19.079 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:10:29.159 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:10:29.295 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [136] ms
+14-Apr-2022 13:17:10.304 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:17:10.359 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:17:10.495 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [136] ms
+14-Apr-2022 13:23:01.473 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:23:11.553 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:23:11.702 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [149] ms
+14-Apr-2022 13:23:52.308 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:24:02.481 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:24:02.654 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [173] ms
+14-Apr-2022 13:25:03.255 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:25:13.329 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:25:13.450 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [121] ms
+14-Apr-2022 13:26:04.029 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:26:14.152 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:26:14.349 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [197] ms
+14-Apr-2022 13:27:34.963 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context []
+14-Apr-2022 13:27:35.489 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/examples]
+14-Apr-2022 13:27:36.012 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/host-manager]
+14-Apr-2022 13:27:36.534 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/manager]
+14-Apr-2022 13:27:37.045 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:27:37.574 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/docs]
+14-Apr-2022 13:28:07.602 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:28:07.823 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [221] ms
+14-Apr-2022 13:28:07.824 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs]
+14-Apr-2022 13:28:07.872 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\docs] has finished in [48] ms
+14-Apr-2022 13:28:17.889 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Reloading context [/docs]
+14-Apr-2022 13:28:17.889 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/docs] has started
+14-Apr-2022 13:28:17.944 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/docs] is completed
+14-Apr-2022 13:28:17.945 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples]
+14-Apr-2022 13:28:18.403 WARNING [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJspConfig Failed to process TLD with path [/WEB-INF/jsp/jsp2-example-taglib.tld] and URI [http://tomcat.apache.org/jsp2-example-taglib]. The specified path does not exist.
+14-Apr-2022 13:28:18.405 WARNING [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJspConfig Failed to process TLD with path [/WEB-INF/jsp/debug-taglib.tld] and URI [http://tomcat.apache.org/debug-taglib]. The specified path does not exist.
+14-Apr-2022 13:28:18.407 WARNING [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJspConfig Failed to process TLD with path [/WEB-INF/jsp/example-taglib.tld] and URI [http://tomcat.apache.org/example-taglib]. The specified path does not exist.
+14-Apr-2022 13:28:18.434 SEVERE [Catalina-utility-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+14-Apr-2022 13:28:18.435 SEVERE [Catalina-utility-1] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+14-Apr-2022 13:28:18.443 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\examples] has finished in [497] ms
+14-Apr-2022 13:28:28.464 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager]
+14-Apr-2022 13:28:28.545 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\host-manager] has finished in [80] ms
+14-Apr-2022 13:28:28.545 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager]
+14-Apr-2022 13:28:28.645 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\manager] has finished in [100] ms
+14-Apr-2022 13:28:28.646 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT]
+14-Apr-2022 13:28:28.699 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\ROOT] has finished in [53] ms
+14-Apr-2022 13:29:29.306 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:29:39.375 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:29:39.496 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [122] ms
+14-Apr-2022 13:32:50.306 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:33:00.397 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:33:00.516 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [118] ms
+14-Apr-2022 13:33:51.085 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:34:01.286 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:34:01.430 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [144] ms
+14-Apr-2022 13:35:01.516 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:35:01.571 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:35:01.703 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [132] ms
+14-Apr-2022 13:35:32.257 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:35:42.332 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:35:42.527 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [195] ms
+14-Apr-2022 13:36:13.074 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/JSP]
+14-Apr-2022 13:36:23.138 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war]
+14-Apr-2022 13:36:23.270 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\goncalo.diogo\IdeaProjects\JSP\apache-tomcat-10.0.20\webapps\JSP.war] has finished in [132] ms
